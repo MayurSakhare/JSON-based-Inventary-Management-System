@@ -1,6 +1,6 @@
 ### Inventory-Management-System
 This repositary is having all the code used in AI/ML Skill Internship Assignment on Inventory Management System
-
+In this project I have use the general store data in the IMSRecord.json 
 ###About the Repository
 This build using JSON , File Handling and NOSQL
 
