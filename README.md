@@ -1,4 +1,4 @@
-### JSON-based-Inventory-Management-System
+### Inventory-Management-System
 This repositary is having all the code used in AI/ML Skill Internship Assignment on Inventory Management System
 
 ###About the Repository
